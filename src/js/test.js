@@ -1,0 +1,15 @@
+require("../../assets/vendor/bootstrap/css/bootstrap.min.css");
+require("../../assets/css/style.css");
+require("../../assets/vendor/owl.carousel/assets/owl.carousel.min.css");
+require("../../assets/vendor/aos/aos.css");
+require("../../assets/js/main.js");
+// require("../../assets/img/HIMTI.png");
+// require("../../assets/img/intro-img.svg");
+// require("../../assets/img/tools/bootstrap.png");
+// require("../../assets/img/tools/css3.png");
+// require("../../assets/img/tools/js.png");
+// require("../../assets/img/tools/html5.png");
+// require("../../assets/img/certificate.png");
+// require("../../assets/img/dollar.png");
+// require("../../assets/img/tools.png");
+// require("../../assets/img/user.png");
