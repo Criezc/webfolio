@@ -1067,3 +1067,16 @@ iframe:hover{
   -webkit-filter: none;
   filter: none;
 }
+
+.border-form {
+  background-color: #686a6d;
+  border-radius: 20px;
+}
+
+.border-font {
+  color: white
+}
+
+.border-font h1{
+  color: white;
+}
