@@ -135,7 +135,7 @@
     });
     $("body").append($mobile_nav);
     $("body").prepend(
-      '<button type="button" class="mobile-nav-toggle d-lg-none"><i class="fa fa-bars"></i></button>'
+      '<button type="button" class="mobile-nav-toggle d-lg-none" title="mobile-nav"><i class="fa fa-bars"></i></button>'
     );
     $("body").append('<div class="mobile-nav-overly"></div>');
 
